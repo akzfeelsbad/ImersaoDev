@@ -1,4 +1,4 @@
-## **README.md Descontraído para sua Aplicação Radiohead**
+## **Esse projeto foi feito durante a Imersão Dev com Google Gemini**
 
 ### **Radiohead Discography Search: Sua trilha sonora personalizada**
 
